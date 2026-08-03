@@ -1,0 +1,31 @@
+# Trimmed copy of the styles repo's spec/filters.yaml. The exception lists there exist to
+# grandfather in real styles; this repo holds four hand-picked styles that need no
+# exceptions, so the lists start empty. EXTRA_FILES is the one that must be kept in sync:
+# every non-.csl file added to this repo has to be listed or "may not contain extra files"
+# fails.
+
+# These ISSNs are ignored when checking for duplicate ISSNs
+ISSN: []
+
+# These titles are ignored when checking for duplicate titles
+TITLES: []
+
+# These styles are ignored when checking for valid citation-formats
+CITATION_FORMAT: []
+
+# These styles are ignored when checking for unused macros
+UNUSED_MACROS: []
+
+# These files and directories are ignored when checking for extra files
+EXTRA_FILES:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - README.md
+  - renamed-styles.json
+  - dependent
+
+# These directories and their contents are ignored when checking for extra files
+EXTRA_FILES_DIRECTORY:
+  - spec
+  - vendor

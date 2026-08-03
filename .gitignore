@@ -1,0 +1,5 @@
+.bundle/
+vendor/
+pull-request/
+spec/sheldon/ci.json
+node_modules/
