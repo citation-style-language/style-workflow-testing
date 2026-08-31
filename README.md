@@ -54,3 +54,4 @@ one-shot authorisation, revoked automatically on the next push.
 
 <!-- label-gun review smoke test -->
 <!-- fresh sha for clean check-run comparison -->
+<!-- post-hardening sheldon check -->
