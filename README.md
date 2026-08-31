@@ -53,3 +53,4 @@ one-shot authorisation, revoked automatically on the next push.
 [styles]: https://github.com/citation-style-language/styles
 
 <!-- label-gun review smoke test -->
+<!-- fresh sha for clean check-run comparison -->
