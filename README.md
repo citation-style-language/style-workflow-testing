@@ -51,3 +51,7 @@ one-shot authorisation, revoked automatically on the next push.
 
 [sheldon]: https://github.com/citation-style-language/Sheldon
 [styles]: https://github.com/citation-style-language/styles
+
+<!-- label-gun review smoke test -->
+<!-- fresh sha for clean check-run comparison -->
+<!-- post-hardening sheldon check -->
